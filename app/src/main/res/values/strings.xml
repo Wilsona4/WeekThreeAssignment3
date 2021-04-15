@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeekThreeAssignment3</string>
+    <string name="search">Search</string>
+    <string name="mummy">mummy</string>
+    <string name="mr_wil">Mr WIL</string>
+    <string name="drawer">drawer</string>
+    <string name="profile">profile</string>
+</resources>
